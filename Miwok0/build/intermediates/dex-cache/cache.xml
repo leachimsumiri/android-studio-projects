@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_9a66f245e0dfd50f413e5e35c556400796a8373f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_16ff30081dc17504714ff61309e544a4be6ac145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_0072614a9101a59100f760adc8360985a9f5bd73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_847ffe485f1ebe39a103d07bb1df337917644bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_30a7bb8d806356d8b373f69b124c629ce7568aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.3_dc2af141b2dcc98c68af9479a496e8c1c030f5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_b32043ac583d0a8a0388b32a2d7ccb9583db2c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_96e084a245859e8b2571d6c1cf7e04c00e510863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_c0943782a8238a27a5fa80af1b92672d080ae929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/michaelirimus/Projects/AndroidStudioProjects/Miwok0/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_221b8cf0b5f04dc6a1510f7f767cfead4faba79f.jar" />
+    </item>
+
+</items>
